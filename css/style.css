@@ -75,7 +75,7 @@
 }
 
 .sticky .logo {
-  background-image: url(../images/black-logo.png);
+ color: #111;
 }
 
 .sticky .navbar-menu a {
